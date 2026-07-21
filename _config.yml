@@ -1,0 +1,21 @@
+theme: jekyll-theme-hacker
+title: 🎮 我的游戏
+description: 一款很酷的游戏 —— 欢迎来到项目主页
+show_downloads: true
+google_analytics:
+
+# 自定义导航
+header_pages:
+  - about.md
+  - screenshots.md
+  - download.md
+  - changelog.md
+
+# 语言设置
+lang: zh-CN
+
+# GitHub 项目地址（改成你实际的仓库名）
+github:
+  repository_url: https://github.com/lisaxiao299-maker/game-demo-site
+  zip_url: https://github.com/lisaxiao299-maker/game-demo-site/releases
+  tar_url: https://github.com/lisaxiao299-maker/game-demo-site/releases
