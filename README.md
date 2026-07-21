@@ -1,6 +1,8 @@
 # 🎮 游戏项目网页
 
-一个基于 **Jekyll** + **GitHub Pages** 的游戏项目展示网站。
+> 🌐 **在线地址：https://lisaxiao299-maker.github.io/game-demo-site/**
+
+一个基于 **Jekyll** + **GitHub Pages** 的游戏项目展示网站，支持**在线试玩**。
 
 一键推送即可自动部署到 `https://lisaxiao299-maker.github.io/game-demo-site/`。
 
