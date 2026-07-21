@@ -11,6 +11,14 @@ title: 首页
 
 ---
 
+## 🎮 在线试玩
+
+[![Play Tetris](https://via.placeholder.com/600x100/0d1117/b5e853?text=🎮+在线玩俄罗斯方块)](./tetris.html)
+
+点击上方链接 → 浏览器直接开玩，无需下载！
+
+---
+
 ## 游戏截图
 
 | | |
